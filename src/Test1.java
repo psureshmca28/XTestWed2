@@ -4,5 +4,6 @@ public class Test1 {
 		System.out.println("test1 added from eclipse");
 		System.out.println("test1 added from Git");
 		System.out.println("test1 3rdline added from eclipse");
+		System.out.println("test1 4th line added from Git");
 	}
 }
